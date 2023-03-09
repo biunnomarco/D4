@@ -1,0 +1,39 @@
+.red{
+    background-color: #f0002c;
+    position: relative;
+    width: 120px;
+    height: 120px;
+}
+.pink{
+    background-color: #e0abd8;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    bottom: 60px;
+    left: 60px;
+    
+}
+.yellow{
+    background-color: #f0c800;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    bottom: 120px;
+    left: 120px;   
+}
+.green{
+    background-color: #32a852;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    bottom: 180px;
+    left: 180px;
+}
+.blue{
+    background-color: #0486d6;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    bottom: 240px;
+    left: 240px;
+}
